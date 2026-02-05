@@ -27,10 +27,9 @@
 
 ## 📈 GitHub Stats
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Narasimha2112&show_icons=true&theme=default&hide_border=true&border_radius=10" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narasimha2112&theme=default&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Narasimha2112&show_icons=true&theme=react&hide_border=true&border_radius=12" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narasimha2112&theme=react&hide_border=true&border_radius=12" />
 </p>
 
 
