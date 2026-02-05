@@ -1,26 +1,31 @@
-<h1 align="center">⚡ Narasimha NSV ⚡</h1>
-<h3 align="center">Backend Engineer | Python Developer | Automation</h3>
-
----
-
-## 🙋 WHO I AM
-
-- 🚀 Backend Engineer passionate about automation    
-
-🎯 **Short-term Goal:** Become Backend Engineer  
-🌟 **Life Goal:** Build meaningful tech products  
-
----
-
-## 🛠️ TECH UNIVERSE
+<h1 align="center">✨ Hi, I'm Narasimha ✨</h1>
+<h3 align="center">Python Developer | Backend Enthusiast | Problem Solver</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,python,githubactions,git,django,flask,mysql,postgresql,html,css.restapi" />
+  <img src="https://komarev.com/ghpvc/?username=Narasimha2112&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 📊 GITHUB POWER
+## 👨🏽‍💻 About Me
+
+- 🐍 Passionate Python Developer  
+- 🌐 Backend focused (Django / Flask)  
+- 📊 Interested in building real-world scalable applications  
+- 🧠 Continuously learning DSA & system design  
+- 🎯 Goal: Become a strong Full-Stack / Backend Engineer  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,bootstrap,mysql,sqlite,git,github" />
+</p>
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Narasimha2112&show_icons=true&theme=tokyonight" />
@@ -29,7 +34,20 @@
 
 ---
 
-## 🌍 CONNECT WITH ME
+## 🔥 Featured Projects
+
+- 📰 News Aggregator App (Flask + API Integration)
+- 🧮 Smart Calculator with History Storage
+- 📝 Dynamic Quiz Builder (Flask + AI Integration)
+- 🌐 Personal Portfolio Website
+
+---
+
+## 📬 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/narasimha-nsv-a2b586199/
-- 📧 Email: venkatnsv6@gmail.com  
+- 📧 Email: venkatnsv6@gmail.com
+
+---
+
+⭐ *"Consistency beats motivation."*
