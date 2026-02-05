@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">⚡ Narasimha NSV ⚡</h1>
+<h3 align="center">Backend Engineer | Python Developer | Automation</h3>
 
-<!--
-**Narasimha2112/Narasimha2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🙋 WHO I AM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Backend Engineer passionate about automation    
+
+🎯 **Short-term Goal:** Become Backend Engineer  
+🌟 **Life Goal:** Build meaningful tech products  
+
+---
+
+## 🛠️ TECH UNIVERSE
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,python,githubactions,git,django,flask,mysql,postgresql,sql,html,css" />
+</p>
+
+---
+
+## 📊 GITHUB POWER
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Narasimha2112&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Narasimha2112&theme=tokyonight" />
+</p>
+
+---
+
+## 🌍 CONNECT WITH ME
+
+- 💼 LinkedIn: https://www.linkedin.com/in/narasimha-nsv-a2b586199/
+- 📧 Email: venkatnsv6@gmail.com  
