@@ -15,7 +15,7 @@
 ## 🛠️ TECH UNIVERSE
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,python,githubactions,git,django,flask,mysql,postgresql,sql,html,css" />
+<img src="https://skillicons.dev/icons?i=linux,python,githubactions,git,django,flask,mysql,postgresql,html,css.restapi" />
 </p>
 
 ---
